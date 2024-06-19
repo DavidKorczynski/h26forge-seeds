@@ -12,7 +12,7 @@ $ git clone https://github.com/DavidKorczynski/h26forge-seeds
 $ cd h264forge-seeds
 
 $ git clone https://github.com/h26forge/h26forge
-$ cd h264forge
+$ cd h26forge
 $ ./make.sh
 
 $ cp gen-all_videos.sh .
